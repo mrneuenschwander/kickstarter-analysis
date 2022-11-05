@@ -2,7 +2,7 @@
 Week 1 Project
 
 ## Overview of Project
-This analysis is intended to proide a window into the marketing and completion rates of various kickstarter campaigns across a range of years. Primarily, it is focused on the success of theater outcomes based on their launch dates, and funding success rates of an overseas campaign concerning Great Britain in particular.
+This analysis is intended to proide a window into the marketing and completion rates of various kickstarter campaigns across a range of years. Primarily, it is focused on the success of theater outcomes based on their launch dates, and funding success rates of an overseas campaign concerning Great Britain in particular. ![GB Theater BOXPLOT](https://user-images.githubusercontent.com/116296092/200143943-a6625c69-cd08-4f2d-9fcc-59f60e8069ad.png)
 
 ### Purpose
 To show the launch dates and costs of camapigns that are likely to garner the most success in their given sphere. It does no one any good to launch a campaign in a market that doesn't want it, and this report will help the Client to avoid certain pitfalls that could otherwise be a problem if not accounted for.
@@ -19,15 +19,17 @@ It could be inferred that this is due to summer approaching, and the availibilit
 and that is already a more positive outlook than if an attempt was being made to launch a technology campaign, for example. Currently, there are no live campaigns in the tech section, whereas the Theater and others have not only live campaigns, but better success rates as a whole.
 
 ### Analysis of Outcomes Based on Goals
+Interestingly, there is an exaclt inverse relationship of the outcomes as the dollar value for the goal goes up:
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/116296092/200143760-a41e311c-00c5-425b-ac5c-a17a50a4df58.png)
+There weren't any canceled campaigns, so it's considered a pass/fail engagement in this respect. The smaller productions tend to see better success, and productions created for around $35,000 are also more than 50% successful.
 
 ### Challenges and Difficulties Encountered
+The challenge that presents itself here isn't concerning the sorting of the data, it's making it look good. The sets get much smaller when working with specifically theater camapigns, and thus they're easier to manipulate than the primary Kickstarter sheet. The trick with the smaller sets is to not allow smaller details to slip by, and to present the data that will still be relevant to the Client request without getting too granular. Limitations could exist in the data, as it is a public scrape of one fundrasing site, and other campaign's fundraisers may be more popular on other platforms (GoFundMe, for example). With that in mind, a few thousand points of data to play with shows that if you're going to launch a theater campaign, Kickstarter in the months of May and June are the way to go.
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+- The best time to launch a Theater Campaign is in late Spring/Early summer.
+- Theater campaigns will be statistically more successful than other media.
+- Lower-cost productions tend to fund better, with the exception of $35-40,000 campaigns. Go big or go home, I suppose.
+- This dataset is publically-acquired, and thus is subject to the wiles of the internet and/or pipe dreams. For instance, a $100M campaign for "The Time Jumper", with a description that reads "My ambition for this knows no bounds.  Seeing Sephoria in a live-action is a dream of mine."
+- Other tables and graphs could be created regarding the Duration of Campaigns by Goal, the success rates of campaigns by year as it relates to goal, and similar graphs that were created for the Theater but based in other mediums such as EDM campaigns or Video Games.
