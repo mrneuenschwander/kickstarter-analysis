@@ -19,7 +19,7 @@ It could be inferred that this is due to summer approaching, and the availibilit
 and that is already a more positive outlook than if an attempt was being made to launch a technology campaign, for example. Currently, there are no live campaigns in the tech section, whereas the Theater and others have not only live campaigns, but better success rates as a whole.
 
 ### Analysis of Outcomes Based on Goals
-Interestingly, there is an exaclt inverse relationship of the outcomes as the dollar value for the goal goes up:
+Interestingly, there is an exact inverse relationship of the outcomes as the dollar value for the goal goes up:
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/116296092/200143760-a41e311c-00c5-425b-ac5c-a17a50a4df58.png)
 There weren't any canceled campaigns, so it's considered a pass/fail engagement in this respect. The smaller productions tend to see better success, and productions created for around $35,000 are also more than 50% successful.
 
