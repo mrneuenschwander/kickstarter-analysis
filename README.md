@@ -2,7 +2,7 @@
 Week 1 Project
 
 ## Overview of Project
-This analysis is intended to proide a window into the marketing and completion rates of various kickstarter campaigns across a range of years. Primarily, it is focused on the success of theater outcomes based on their launch dates, and funding success rates of an overseas campaign concerning Great Britain in particular. ![GB Theater BOXPLOT](https://user-images.githubusercontent.com/116296092/200143943-a6625c69-cd08-4f2d-9fcc-59f60e8069ad.png)
+This analysis is intended to provide a window into the marketing and completion rates of various kickstarter campaigns across a range of years. Primarily, it is focused on the success of theater outcomes based on their launch dates, and funding success rates of an overseas campaign concerning Great Britain in particular. ![GB Theater BOXPLOT](https://user-images.githubusercontent.com/116296092/200143943-a6625c69-cd08-4f2d-9fcc-59f60e8069ad.png)
 
 ### Purpose
 To show the launch dates and costs of camapigns that are likely to garner the most success in their given sphere. It does no one any good to launch a campaign in a market that doesn't want it, and this report will help the Client to avoid certain pitfalls that could otherwise be a problem if not accounted for.
